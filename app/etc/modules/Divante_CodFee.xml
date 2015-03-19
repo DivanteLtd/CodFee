@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Divante_CodFee>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Payment/>
+                <Mage_Shipping/>
+            </depends>
+        </Divante_CodFee>
+    </modules>
+</config>
